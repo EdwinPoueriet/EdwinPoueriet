@@ -31,7 +31,7 @@ JavaScript Dev, ReactJs, Typescript
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-  ## 💰 You can help me Here:
+  ## 💰 You can supoort me Here:
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/EdwinPoueriet) 
 
   
