@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **EdwinPoueriet/EdwinPoueriet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-# 💫 About Me:
+## 💫 About Me:
 JavaScript Dev, ReactJs, Typescript
 
 
-## 🌐 Socials:
+## 📫 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edwin-poueriet-517a67185) 
 
 # 💻 Tech Stack:
